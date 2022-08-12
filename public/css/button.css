@@ -1,0 +1,74 @@
+.btn-warning {
+	background-color: #ee831e !important;
+	border-color: #ee831e !important;
+	color: #fff !important;
+}
+
+.btn-warning:hover {
+	background-color: #f0923a !important;
+	border-color: #f0923a !important;
+	color: #fff !important;
+}
+
+.btn-success {
+	background-color: #2baf51 !important;
+	border-color: #2baf51 !important;
+	color: #fff !important;
+}
+
+.btn-success:hover {
+	background-color: #45b967 !important;
+	border-color: #45b967 !important;
+	color: #fff !important;
+}
+
+.btn-danger {
+	background-color: #e51e2d !important;
+	border-color: #e51e2d !important;
+	color: #fff !important;
+}
+
+.btn-danger:hover {
+	background-color: #e83a47 !important;
+	border-color: #e83a47 !important;
+	color: #fff !important;
+}
+
+.btn-dark {
+	background-color: #225ba9 !important;
+	border-color: #225ba9 !important;
+}
+
+.btn-dark:hover {
+	background-color: #386bb1 !important;
+	border-color: #386bb1 !important;
+}
+
+.bg-primary {
+	background-color: #7397c8 !important;
+	border-color: #7397c8 !important;
+}
+
+.badge-info {
+	background-color: #c7d5e9 !important;
+	color: #171e28 !important;
+	/* Tulisan Gelap */
+}
+
+.navbar-light {
+	background-color: #225ba9;
+}
+
+.navbar-light .navbar-nav .nav-link {
+	color: #fff !important;
+}
+
+.nav-link.active {
+	background-color: #225ba9 !important;
+	color: #fff !important;
+}
+
+.nav-link.active:hover {
+	background-color: #386bb1 !important;
+	color: #fff !important;
+}
